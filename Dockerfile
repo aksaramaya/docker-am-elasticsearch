@@ -1,4 +1,4 @@
-FROM aksaramaya/base
+FROM java:8-jdk-alpine
 MAINTAINER ibnu yahya <anak10thn@gmail.com>
 
 ENV LANG=C.UTF-8 LC_ALL=C
